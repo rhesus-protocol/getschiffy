@@ -1,0 +1,9 @@
+node_modules/
+build/
+public/
+src/
+test/
+.env
+details.*
+tokens.*
+package*

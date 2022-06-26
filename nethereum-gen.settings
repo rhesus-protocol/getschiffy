@@ -1,0 +1,7 @@
+{
+    "projectName": "MKStaking",
+    "namespace": "MKStaking.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}

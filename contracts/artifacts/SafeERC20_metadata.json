@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GetSchiffyAirdrop.sol": "SafeERC20"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GetSchiffyAirdrop.sol": {
+			"keccak256": "0xf4cdec1b3fa082062c25be72ce35c0e53befe53203a9580d4f72bd3d5422a3d7",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://4a529700674358ce4ab10c82a47d45be98e04aa9544c4f47ec620de34357c40e",
+				"dweb:/ipfs/QmS1eYKzh8jk1GeCUFVC4PXEYQJmumphbE6iaLMxCe4rqD"
+			]
+		}
+	},
+	"version": 1
+}

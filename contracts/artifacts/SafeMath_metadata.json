@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GetSchiffyNormalNFT.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GetSchiffyNormalNFT.sol": {
+			"keccak256": "0x99c503cf37bf5cbe5dce52d7671b258402cfe7f02d60ae93f0f7bce0775ca4e9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://89dcc589ef0c8d3bb6e5745adbb63e006aeb7ac27b7c605b51a7cedc1c5e47d3",
+				"dweb:/ipfs/QmfSPdmvi1aqvm1S1WmDjeahyr5mBka15zUbmUCi1JNkwC"
+			]
+		}
+	},
+	"version": 1
+}
